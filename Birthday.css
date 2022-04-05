@@ -154,14 +154,14 @@ body {
     z-index: -1;
     font-family: 'AdorshoLipi', sans-serif;
     margin: 40px;
-    color: #118ab2;
+    color: #000000;
   }
   
   .name {
     position: absolute;
     left:400px;
     top:280px;
-    color: #118ab2;
+    color: #000000;
   }
   
   .back {
@@ -169,7 +169,7 @@ body {
     position: absolute;
     left: 250px;
     font-family: Tahoma, sans-serif;
-    color: #118ab2;
+    color: #000000;
     text-align: center;
     margin:30px; 
     outline-color:rgba(35, 242, 249, 0.623);
